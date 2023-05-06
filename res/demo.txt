@@ -1,0 +1,8 @@
+load res/tree.jpg
+downscale 100 300
+save res/downscaleTree100by300.jpg
+load res/tree.jpg
+downscale 300 100
+save res/downscaleTree300by100.jpg
+quit
+
