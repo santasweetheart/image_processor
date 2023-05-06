@@ -1,10 +1,12 @@
 # Image Processor
 
-Timeframe: Fall 2021  
+**Project**: A image processor with GUI created in Java & Java Swing
 
-Group Members: Santa Jolicoeur & Ayla D.  
+**Timeframe**: Fall 2021  
 
+**Class**: Object Oriented Design   
 
+**Group Members**: Santa Jolicoeur & Ayla D.  
 
 ### **Description**
 
